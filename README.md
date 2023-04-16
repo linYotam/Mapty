@@ -1,0 +1,2 @@
+# Mapty
+Mapty - JavaScript
